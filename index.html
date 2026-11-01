@@ -35,6 +35,12 @@ main{padding:20px;max-width:1100px;margin:0 auto}
 :root{--LFt:#FFE6DA;--NSt:#DDF0FB;--FWt:#DDF6E8}
 .hint{color:var(--muted);font-size:18px;margin:0 0 14px}
 .stop{background:#fff;color:var(--ink)}
+.daynav{display:flex;gap:14px;margin:0 0 18px}
+.daynav.bottom{margin:26px 0 10px}
+.navbtn{flex:1;border:none;border-radius:22px;background:#fff;color:var(--ink);font:inherit;font-size:22px;font-weight:700;padding:16px 12px;min-height:68px;box-shadow:0 4px 0 #E8DCC6;border-bottom:6px solid var(--nc);cursor:pointer}
+.navbtn:active{transform:translateY(2px)}
+.navbtn:disabled{opacity:.3;cursor:default;box-shadow:none}
+.navbtn small{display:block;font-size:15px;font-weight:400;color:var(--muted);margin-top:2px}
 </style></head><body>
 <header><button class="back" id="back" hidden>◀ 뒤로</button><h1 id="title">영어 단어 따라 읽기</h1></header>
 <main id="app"></main>
@@ -67,8 +73,13 @@ function route(){
       return `<button class="day" style="border-bottom:6px solid var(--${c})" onclick="location.hash='${c}/${d}'">${unitKo(c)} ${d}<small>${cnt}개 단어</small></button>`}).join('')+'</div>';return;}
   back.onclick=()=>location.hash=c;t.textContent=`${c} · ${unitKo(c)} ${n}`;
   const xs=DATA.filter(x=>x.course===c&&x[unit(c)]==n);
-  app.innerHTML=`<button id="pa" class="playall" style="background:var(--${c})">▶ 전체 듣기</button><p class="hint">카드를 누르면 그 단어를 들을 수 있어요. 잘 듣고 따라 말해 봐요! 🗣️</p><div class="cards">`+
-   xs.map((x,i)=>`<button class="card" style="color:var(--${c});--cc:var(--${c});--ct:var(--${c}t)" data-src="${x.audio||''}"><span class="no" style="background:var(--${c})">${x.no}</span><div class="en" style="color:var(--ink)">${x.word}</div><div class="ko">${x.korean.replace(/^(n|v|adj|adv|det|prep|phr)\.\s*/,'')}</div>${x.sentence?`<div class="ex">${x.sentence}</div>`:''}</button>`).join('')+'</div>';
+  const all=[...new Set(DATA.filter(x=>x.course===c).map(x=>x[unit(c)]))].sort((a,b)=>Number(a)-Number(b));
+  const pos=all.findIndex(d=>d==n),pv=pos>0?all[pos-1]:null,nx=pos>=0&&pos<all.length-1?all[pos+1]:null;
+  const nav=cls=>`<div class="daynav ${cls}"><button class="navbtn" data-go="${pv??''}" style="--nc:var(--${c})" ${pv==null?'disabled':''}>◀ 이전 ${unitKo(c)}${pv!=null?`<small>${unitKo(c)} ${pv}</small>`:''}</button><button class="navbtn" data-go="${nx??''}" style="--nc:var(--${c})" ${nx==null?'disabled':''}>다음 ${unitKo(c)} ▶${nx!=null?`<small>${unitKo(c)} ${nx}</small>`:''}</button></div>`;
+  app.innerHTML=nav('top')+`<button id="pa" class="playall" style="background:var(--${c})">▶ 전체 듣기</button><p class="hint">카드를 누르면 그 단어를 들을 수 있어요. 잘 듣고 따라 말해 봐요! 🗣️</p><div class="cards">`+
+   xs.map((x,i)=>`<button class="card" style="color:var(--${c});--cc:var(--${c});--ct:var(--${c}t)" data-src="${x.audio||''}"><span class="no" style="background:var(--${c})">${x.no}</span><div class="en" style="color:var(--ink)">${x.word}</div><div class="ko">${x.korean.replace(/^(n|v|adj|adv|det|prep|phr)\.\s*/,'')}</div>${x.sentence?`<div class="ex">${x.sentence}</div>`:''}</button>`).join('')+'</div>'+nav('bottom');
+  app.querySelectorAll('.navbtn').forEach(b=>b.onclick=()=>{if(b.disabled||b.dataset.go==='')return;stopAll();location.hash=`${c}/${b.dataset.go}`;window.scrollTo(0,0);});
+  window.scrollTo(0,0);
   const cards=[...app.querySelectorAll('.card')];
   cards.forEach(el=>el.onclick=()=>{if(el.classList.contains('playing')&&seq.length===1){stopAll();return;}playSeq([el]);});
   const pa=document.getElementById('pa');pa.onclick=()=>{if(pa.dataset.on){stopAll();return;}playSeq(cards,0);pa.dataset.on='1';pa.innerHTML='■ 멈추기';};
