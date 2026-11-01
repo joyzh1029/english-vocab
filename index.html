@@ -27,8 +27,12 @@ main{padding:20px;max-width:1100px;margin:0 auto}
 .card .en{font-size:30px;font-weight:800;line-height:1.15}
 .card .ko{font-size:21px;color:#555;margin-top:6px}
 .card .ex{font-size:19px;color:var(--muted);margin-top:8px;font-style:italic}
-.card.playing{border-color:currentColor;transform:scale(1.02)}
-.card.playing .no::after{content:""}
+.card{transition:transform .2s,background-color .2s,border-color .2s,box-shadow .2s}
+.card.playing{border:6px solid var(--cc);background:var(--ct);transform:scale(1.04);box-shadow:0 8px 22px rgba(0,0,0,.18);z-index:2}
+.card.playing .no{animation:pulse 1s ease-in-out infinite}
+.card.playing::after{content:"🔊";position:absolute;right:14px;top:12px;font-size:28px}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.18)}}
+:root{--LFt:#FFE6DA;--NSt:#DDF0FB;--FWt:#DDF6E8}
 .hint{color:var(--muted);font-size:18px;margin:0 0 14px}
 .stop{background:#fff;color:var(--ink)}
 </style></head><body>
@@ -40,8 +44,17 @@ const COURSES={LF:{name:"LF",ko:"단어 외우기",desc:"단어 → 스펠링 �
 let DATA=[];const app=document.getElementById('app'),au=document.getElementById('au');
 const unit=c=>c==='FW'?'page':'day', unitKo=c=>c==='FW'?'페이지':'Day';
 const tag=(c,n)=>`${c}_${c==='FW'?'Page':'Day'}${String(n).padStart(2,'0')}`;
-function stopAll(){au.pause();document.querySelectorAll('.playing').forEach(e=>e.classList.remove('playing'));const b=document.getElementById('pa');if(b)b.dataset.on='',b.innerHTML='▶ 전체 듣기';}
-function play(src,el){stopAll();au.src=src;au.play();if(el)el.classList.add('playing');au.onended=()=>{stopAll()};}
+let seq=[],idx=0;
+function clearHL(){document.querySelectorAll('.card.playing').forEach(e=>e.classList.remove('playing'));}
+function resetBtn(){const b=document.getElementById('pa');if(b){b.dataset.on='';b.innerHTML='▶ 전체 듣기';}}
+function stopAll(){seq=[];idx=0;au.pause();clearHL();resetBtn();}
+function playIdx(){const el=seq[idx];if(!el){stopAll();return;}clearHL();el.classList.add('playing');
+  try{el.scrollIntoView({behavior:'smooth',block:'center'});}catch(e){el.scrollIntoView();}
+  au.src=el.dataset.src;const p=au.play();if(p&&p.catch)p.catch(()=>{});}
+function next(){if(seq.length&&idx+1<seq.length){idx++;playIdx();}else stopAll();}
+au.addEventListener('ended',next);
+au.addEventListener('error',()=>{if(seq.length)next();});
+function playSeq(list,start){stopAll();seq=list;idx=start||0;playIdx();}
 function route(){
   stopAll();const [c,n]=location.hash.slice(1).split('/');const back=document.getElementById('back'),t=document.getElementById('title');
   if(!c){back.hidden=true;t.textContent='영어 단어 따라 읽기';
@@ -55,9 +68,10 @@ function route(){
   back.onclick=()=>location.hash=c;t.textContent=`${c} · ${unitKo(c)} ${n}`;
   const xs=DATA.filter(x=>x.course===c&&x[unit(c)]==n);
   app.innerHTML=`<button id="pa" class="playall" style="background:var(--${c})">▶ 전체 듣기</button><p class="hint">카드를 누르면 그 단어를 들을 수 있어요. 잘 듣고 따라 말해 봐요! 🗣️</p><div class="cards">`+
-   xs.map((x,i)=>`<button class="card" style="color:var(--${c})" data-src="${x.audio||''}"><span class="no" style="background:var(--${c})">${x.no}</span><div class="en" style="color:var(--ink)">${x.word}</div><div class="ko">${x.korean.replace(/^(n|v|adj|adv|det|prep|phr)\.\s*/,'')}</div>${x.sentence?`<div class="ex">${x.sentence}</div>`:''}</button>`).join('')+'</div>';
-  app.querySelectorAll('.card').forEach(el=>el.onclick=()=>{if(el.classList.contains('playing')){stopAll();return;}play(el.dataset.src,el)});
-  const pa=document.getElementById('pa');pa.onclick=()=>{if(pa.dataset.on){stopAll();return;}play(`${c}/${tag(c,n)}.mp3`);pa.dataset.on='1';pa.innerHTML='■ 멈추기';};
+   xs.map((x,i)=>`<button class="card" style="color:var(--${c});--cc:var(--${c});--ct:var(--${c}t)" data-src="${x.audio||''}"><span class="no" style="background:var(--${c})">${x.no}</span><div class="en" style="color:var(--ink)">${x.word}</div><div class="ko">${x.korean.replace(/^(n|v|adj|adv|det|prep|phr)\.\s*/,'')}</div>${x.sentence?`<div class="ex">${x.sentence}</div>`:''}</button>`).join('')+'</div>';
+  const cards=[...app.querySelectorAll('.card')];
+  cards.forEach(el=>el.onclick=()=>{if(el.classList.contains('playing')&&seq.length===1){stopAll();return;}playSeq([el]);});
+  const pa=document.getElementById('pa');pa.onclick=()=>{if(pa.dataset.on){stopAll();return;}playSeq(cards,0);pa.dataset.on='1';pa.innerHTML='■ 멈추기';};
 }
 fetch('data/vocab.json').then(r=>r.json()).then(d=>{DATA=d;route()});window.onhashchange=route;
 </script></body></html>
