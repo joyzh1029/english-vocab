@@ -75,7 +75,8 @@ function route(){
   const xs=DATA.filter(x=>x.course===c&&x[unit(c)]==n);
   const all=[...new Set(DATA.filter(x=>x.course===c).map(x=>x[unit(c)]))].sort((a,b)=>Number(a)-Number(b));
   const pos=all.findIndex(d=>d==n),pv=pos>0?all[pos-1]:null,nx=pos>=0&&pos<all.length-1?all[pos+1]:null;
-  const nav=cls=>`<div class="daynav ${cls}"><button class="navbtn" data-go="${pv??''}" style="--nc:var(--${c})" ${pv==null?'disabled':''}>◀ 이전 ${unitKo(c)}${pv!=null?`<small>${unitKo(c)} ${pv}</small>`:''}</button><button class="navbtn" data-go="${nx??''}" style="--nc:var(--${c})" ${nx==null?'disabled':''}>다음 ${unitKo(c)} ▶${nx!=null?`<small>${unitKo(c)} ${nx}</small>`:''}</button></div>`;
+  const uEn=c==='FW'?'Page':'Day';
+  const nav=cls=>`<div class="daynav ${cls}"><button class="navbtn" data-go="${pv??''}" style="--nc:var(--${c})" ${pv==null?'disabled':''}>◀ Previous ${uEn}${pv!=null?`<small>${uEn} ${pv}</small>`:''}</button><button class="navbtn" data-go="${nx??''}" style="--nc:var(--${c})" ${nx==null?'disabled':''}>Next ${uEn} ▶${nx!=null?`<small>${uEn} ${nx}</small>`:''}</button></div>`;
   app.innerHTML=nav('top')+`<button id="pa" class="playall" style="background:var(--${c})">▶ 전체 듣기</button><p class="hint">카드를 누르면 그 단어를 들을 수 있어요. 잘 듣고 따라 말해 봐요! 🗣️</p><div class="cards">`+
    xs.map((x,i)=>`<button class="card" style="color:var(--${c});--cc:var(--${c});--ct:var(--${c}t)" data-src="${x.audio||''}"><span class="no" style="background:var(--${c})">${x.no}</span><div class="en" style="color:var(--ink)">${x.word}</div><div class="ko">${x.korean.replace(/^(n|v|adj|adv|det|prep|phr)\.\s*/,'')}</div>${x.sentence?`<div class="ex">${x.sentence}</div>`:''}</button>`).join('')+'</div>'+nav('bottom');
   app.querySelectorAll('.navbtn').forEach(b=>b.onclick=()=>{if(b.disabled||b.dataset.go==='')return;stopAll();location.hash=`${c}/${b.dataset.go}`;window.scrollTo(0,0);});
