@@ -1,0 +1,3669 @@
+[
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 1,
+  "word": "read",
+  "korean": "v. 읽다",
+  "korean_say": "읽다",
+  "audio": "LF/words/LF_Day01/01_read.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 2,
+  "word": "paint",
+  "korean": "v. (물감으로) 그리다, 칠하다",
+  "korean_say": "(물감으로) 그리다, 칠하다",
+  "audio": "LF/words/LF_Day01/02_paint.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 3,
+  "word": "run",
+  "korean": "v. 달리다",
+  "korean_say": "달리다",
+  "audio": "LF/words/LF_Day01/03_run.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 4,
+  "word": "sing",
+  "korean": "v. 노래하다",
+  "korean_say": "노래하다",
+  "audio": "LF/words/LF_Day01/04_sing.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 5,
+  "word": "swim",
+  "korean": "v. 수영하다",
+  "korean_say": "수영하다",
+  "audio": "LF/words/LF_Day01/05_swim.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 6,
+  "word": "jump",
+  "korean": "v. 점프하다",
+  "korean_say": "점프하다",
+  "audio": "LF/words/LF_Day01/06_jump.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 7,
+  "word": "walk",
+  "korean": "v. 걷다",
+  "korean_say": "걷다",
+  "audio": "LF/words/LF_Day01/07_walk.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 8,
+  "word": "draw",
+  "korean": "v. 그리다",
+  "korean_say": "그리다",
+  "audio": "LF/words/LF_Day01/08_draw.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 9,
+  "word": "dance",
+  "korean": "v. 춤을 추다",
+  "korean_say": "춤을 추다",
+  "audio": "LF/words/LF_Day01/09_dance.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 1,
+  "no": 10,
+  "word": "count",
+  "korean": "v. (수를) 세다",
+  "korean_say": "(수를) 세다",
+  "audio": "LF/words/LF_Day01/10_count.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 2,
+  "no": 1,
+  "word": "sunny",
+  "korean": "adj. 화창한",
+  "korean_say": "화창한",
+  "audio": "LF/words/LF_Day02/01_sunny.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 2,
+  "no": 2,
+  "word": "cloudy",
+  "korean": "adj. 흐린",
+  "korean_say": "흐린",
+  "audio": "LF/words/LF_Day02/02_cloudy.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 2,
+  "no": 3,
+  "word": "windy",
+  "korean": "adj. 바람이 많이 부는",
+  "korean_say": "바람이 많이 부는",
+  "audio": "LF/words/LF_Day02/03_windy.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 2,
+  "no": 4,
+  "word": "foggy",
+  "korean": "adj. 안개가 낀",
+  "korean_say": "안개가 낀",
+  "audio": "LF/words/LF_Day02/04_foggy.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 2,
+  "no": 5,
+  "word": "hot",
+  "korean": "adj. 더운",
+  "korean_say": "더운",
+  "audio": "LF/words/LF_Day02/05_hot.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 2,
+  "no": 6,
+  "word": "cold",
+  "korean": "adj. 추운",
+  "korean_say": "추운",
+  "audio": "LF/words/LF_Day02/06_cold.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 2,
+  "no": 7,
+  "word": "dry",
+  "korean": "adj. 건조한",
+  "korean_say": "건조한",
+  "audio": "LF/words/LF_Day02/07_dry.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 2,
+  "no": 8,
+  "word": "wet",
+  "korean": "adj. 비가 오는, 젖은",
+  "korean_say": "비가 오는, 젖은",
+  "audio": "LF/words/LF_Day02/08_wet.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 3,
+  "no": 1,
+  "word": "sunscreen",
+  "korean": "n. 선크림",
+  "korean_say": "선크림",
+  "audio": "LF/words/LF_Day03/01_sunscreen.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 3,
+  "no": 2,
+  "word": "sunglasses",
+  "korean": "n. 선글라스",
+  "korean_say": "선글라스",
+  "audio": "LF/words/LF_Day03/02_sunglasses.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 3,
+  "no": 3,
+  "word": "baseball cap",
+  "korean": "n. 야구 모자",
+  "korean_say": "야구 모자",
+  "audio": "LF/words/LF_Day03/03_baseball_cap.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 3,
+  "no": 4,
+  "word": "scarf",
+  "korean": "n. 스카프",
+  "korean_say": "스카프",
+  "audio": "LF/words/LF_Day03/04_scarf.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 3,
+  "no": 5,
+  "word": "pants",
+  "korean": "n. 바지",
+  "korean_say": "바지",
+  "audio": "LF/words/LF_Day03/05_pants.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 3,
+  "no": 6,
+  "word": "sweater",
+  "korean": "n. 스웨터",
+  "korean_say": "스웨터",
+  "audio": "LF/words/LF_Day03/06_sweater.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 3,
+  "no": 7,
+  "word": "raincoat",
+  "korean": "n. 비옷",
+  "korean_say": "비옷",
+  "audio": "LF/words/LF_Day03/07_raincoat.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 3,
+  "no": 8,
+  "word": "snowsuit",
+  "korean": "n. 방한복",
+  "korean_say": "방한복",
+  "audio": "LF/words/LF_Day03/08_snowsuit.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 1,
+  "word": "clean",
+  "korean": "v. 청소하다",
+  "korean_say": "청소하다",
+  "audio": "LF/words/LF_Day05/01_clean.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 2,
+  "word": "shop",
+  "korean": "v. 쇼핑하다",
+  "korean_say": "쇼핑하다",
+  "audio": "LF/words/LF_Day05/02_shop.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 3,
+  "word": "work",
+  "korean": "v. 일하다",
+  "korean_say": "일하다",
+  "audio": "LF/words/LF_Day05/03_work.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 4,
+  "word": "play",
+  "korean": "v. 놀다",
+  "korean_say": "놀다",
+  "audio": "LF/words/LF_Day05/04_play.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 5,
+  "word": "walk",
+  "korean": "v. 걷다",
+  "korean_say": "걷다",
+  "audio": "LF/words/LF_Day05/05_walk.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 6,
+  "word": "jog",
+  "korean": "v. 조깅하다",
+  "korean_say": "조깅하다",
+  "audio": "LF/words/LF_Day05/06_jog.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 7,
+  "word": "read",
+  "korean": "v. 읽다",
+  "korean_say": "읽다",
+  "audio": "LF/words/LF_Day05/07_read.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 8,
+  "word": "sing",
+  "korean": "v. 노래하다",
+  "korean_say": "노래하다",
+  "audio": "LF/words/LF_Day05/08_sing.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 9,
+  "word": "eat",
+  "korean": "v. 먹다",
+  "korean_say": "먹다",
+  "audio": "LF/words/LF_Day05/09_eat.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 5,
+  "no": 10,
+  "word": "dance",
+  "korean": "v. 춤추다",
+  "korean_say": "춤추다",
+  "audio": "LF/words/LF_Day05/10_dance.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 6,
+  "no": 1,
+  "word": "table",
+  "korean": "n. 탁자",
+  "korean_say": "탁자",
+  "audio": "LF/words/LF_Day06/01_table.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 6,
+  "no": 2,
+  "word": "sofa",
+  "korean": "n. 소파",
+  "korean_say": "소파",
+  "audio": "LF/words/LF_Day06/02_sofa.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 6,
+  "no": 3,
+  "word": "lamp",
+  "korean": "n. 램프",
+  "korean_say": "램프",
+  "audio": "LF/words/LF_Day06/03_lamp.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 6,
+  "no": 4,
+  "word": "plant",
+  "korean": "n. 식물",
+  "korean_say": "식물",
+  "audio": "LF/words/LF_Day06/04_plant.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 6,
+  "no": 5,
+  "word": "window",
+  "korean": "n. 창문",
+  "korean_say": "창문",
+  "audio": "LF/words/LF_Day06/05_window.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 6,
+  "no": 6,
+  "word": "rug",
+  "korean": "n. 러그(깔개)",
+  "korean_say": "러그, 깔개",
+  "audio": "LF/words/LF_Day06/06_rug.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 6,
+  "no": 7,
+  "word": "door",
+  "korean": "n. 문",
+  "korean_say": "문",
+  "audio": "LF/words/LF_Day06/07_door.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 6,
+  "no": 8,
+  "word": "picture",
+  "korean": "n. 그림, 사진",
+  "korean_say": "그림, 사진",
+  "audio": "LF/words/LF_Day06/08_picture.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 7,
+  "no": 1,
+  "word": "bookcase",
+  "korean": "n. 책장",
+  "korean_say": "책장",
+  "audio": "LF/words/LF_Day07/01_bookcase.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 7,
+  "no": 2,
+  "word": "bed",
+  "korean": "n. 침대",
+  "korean_say": "침대",
+  "audio": "LF/words/LF_Day07/02_bed.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 7,
+  "no": 3,
+  "word": "dresser",
+  "korean": "n. 서랍장",
+  "korean_say": "서랍장",
+  "audio": "LF/words/LF_Day07/03_dresser.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 7,
+  "no": 4,
+  "word": "stove",
+  "korean": "n. 스토브, (가스) 레인지",
+  "korean_say": "스토브, (가스) 레인지",
+  "audio": "LF/words/LF_Day07/04_stove.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 7,
+  "no": 5,
+  "word": "television",
+  "korean": "n. 텔레비전",
+  "korean_say": "텔레비전",
+  "audio": "LF/words/LF_Day07/05_television.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 7,
+  "no": 6,
+  "word": "mirror",
+  "korean": "n. 거울",
+  "korean_say": "거울",
+  "audio": "LF/words/LF_Day07/06_mirror.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 7,
+  "no": 7,
+  "word": "chair",
+  "korean": "n. 의자",
+  "korean_say": "의자",
+  "audio": "LF/words/LF_Day07/07_chair.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 7,
+  "no": 8,
+  "word": "stereo",
+  "korean": "n. 스테레오",
+  "korean_say": "스테레오",
+  "audio": "LF/words/LF_Day07/08_stereo.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 1,
+  "word": "wake up",
+  "korean": "v. (잠에서) 깨다",
+  "korean_say": "(잠에서) 깨다",
+  "audio": "LF/words/LF_Day09/01_wake_up.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 2,
+  "word": "get dressed",
+  "korean": "v. 옷을 입다",
+  "korean_say": "옷을 입다",
+  "audio": "LF/words/LF_Day09/02_get_dressed.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 3,
+  "word": "eat breakfast",
+  "korean": "v. 아침을 먹다",
+  "korean_say": "아침을 먹다",
+  "audio": "LF/words/LF_Day09/03_eat_breakfast.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 4,
+  "word": "play soccer",
+  "korean": "v. 축구를 하다",
+  "korean_say": "축구를 하다",
+  "audio": "LF/words/LF_Day09/04_play_soccer.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 5,
+  "word": "go to school",
+  "korean": "v. 학교에 가다",
+  "korean_say": "학교에 가다",
+  "audio": "LF/words/LF_Day09/05_go_to_school.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 6,
+  "word": "eat lunch",
+  "korean": "v. 점심을 먹다",
+  "korean_say": "점심을 먹다",
+  "audio": "LF/words/LF_Day09/06_eat_lunch.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 7,
+  "word": "play with friends",
+  "korean": "v. 친구들과 놀다",
+  "korean_say": "친구들과 놀다",
+  "audio": "LF/words/LF_Day09/07_play_with_friends.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 8,
+  "word": "brush my teeth",
+  "korean": "v. 이를 닦다",
+  "korean_say": "이를 닦다",
+  "audio": "LF/words/LF_Day09/08_brush_my_teeth.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 9,
+  "word": "put on pajamas",
+  "korean": "v. 잠옷을 입다",
+  "korean_say": "잠옷을 입다",
+  "audio": "LF/words/LF_Day09/09_put_on_pajamas.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 9,
+  "no": 10,
+  "word": "go to bed",
+  "korean": "v. 잠자리에 들다",
+  "korean_say": "잠자리에 들다",
+  "audio": "LF/words/LF_Day09/10_go_to_bed.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 10,
+  "no": 1,
+  "word": "desk",
+  "korean": "n. 책상",
+  "korean_say": "책상",
+  "audio": "LF/words/LF_Day10/01_desk.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 10,
+  "no": 2,
+  "word": "chair",
+  "korean": "n. 의자",
+  "korean_say": "의자",
+  "audio": "LF/words/LF_Day10/02_chair.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 10,
+  "no": 3,
+  "word": "bookcase",
+  "korean": "n. 책장",
+  "korean_say": "책장",
+  "audio": "LF/words/LF_Day10/03_bookcase.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 10,
+  "no": 4,
+  "word": "cupboard",
+  "korean": "n. 찬장",
+  "korean_say": "찬장",
+  "audio": "LF/words/LF_Day10/04_cupboard.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 10,
+  "no": 5,
+  "word": "computer",
+  "korean": "n. 컴퓨터",
+  "korean_say": "컴퓨터",
+  "audio": "LF/words/LF_Day10/05_computer.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 10,
+  "no": 6,
+  "word": "whiteboard",
+  "korean": "n. 화이트보드",
+  "korean_say": "화이트보드",
+  "audio": "LF/words/LF_Day10/06_whiteboard.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 10,
+  "no": 7,
+  "word": "easel",
+  "korean": "n. 이젤, 칠판대",
+  "korean_say": "이젤, 칠판대",
+  "audio": "LF/words/LF_Day10/07_easel.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 10,
+  "no": 8,
+  "word": "poster",
+  "korean": "n. 포스터, 벽보",
+  "korean_say": "포스터, 벽보",
+  "audio": "LF/words/LF_Day10/08_poster.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 11,
+  "no": 1,
+  "word": "drawing",
+  "korean": "n. 그림",
+  "korean_say": "그림",
+  "audio": "LF/words/LF_Day11/01_drawing.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 11,
+  "no": 2,
+  "word": "calendar",
+  "korean": "n. 달력",
+  "korean_say": "달력",
+  "audio": "LF/words/LF_Day11/02_calendar.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 11,
+  "no": 3,
+  "word": "wastebasket",
+  "korean": "n. 쓰레기통",
+  "korean_say": "쓰레기통",
+  "audio": "LF/words/LF_Day11/03_wastebasket.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 11,
+  "no": 4,
+  "word": "mat",
+  "korean": "n. 매트, 깔개",
+  "korean_say": "매트, 깔개",
+  "audio": "LF/words/LF_Day11/04_mat.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 11,
+  "no": 5,
+  "word": "shelf",
+  "korean": "n. 선반",
+  "korean_say": "선반",
+  "audio": "LF/words/LF_Day11/05_shelf.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 11,
+  "no": 6,
+  "word": "clock",
+  "korean": "n. 시계",
+  "korean_say": "시계",
+  "audio": "LF/words/LF_Day11/06_clock.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 11,
+  "no": 7,
+  "word": "drawer",
+  "korean": "n. 서랍",
+  "korean_say": "서랍",
+  "audio": "LF/words/LF_Day11/07_drawer.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 11,
+  "no": 8,
+  "word": "map",
+  "korean": "n. 지도",
+  "korean_say": "지도",
+  "audio": "LF/words/LF_Day11/08_map.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 1,
+  "word": "shirt",
+  "korean": "n. 셔츠",
+  "korean_say": "셔츠",
+  "audio": "LF/words/LF_Day13/01_shirt.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 2,
+  "word": "T-shirt",
+  "korean": "n. 티셔츠",
+  "korean_say": "티셔츠",
+  "audio": "LF/words/LF_Day13/02_T-shirt.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 3,
+  "word": "vest",
+  "korean": "n. 조끼",
+  "korean_say": "조끼",
+  "audio": "LF/words/LF_Day13/03_vest.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 4,
+  "word": "skirt",
+  "korean": "n. 치마",
+  "korean_say": "치마",
+  "audio": "LF/words/LF_Day13/04_skirt.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 5,
+  "word": "dress",
+  "korean": "n. 원피스",
+  "korean_say": "원피스",
+  "audio": "LF/words/LF_Day13/05_dress.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 6,
+  "word": "hat",
+  "korean": "n. 모자",
+  "korean_say": "모자",
+  "audio": "LF/words/LF_Day13/06_hat.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 7,
+  "word": "glasses",
+  "korean": "n. 안경",
+  "korean_say": "안경",
+  "audio": "LF/words/LF_Day13/07_glasses.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 8,
+  "word": "socks",
+  "korean": "n. 양말",
+  "korean_say": "양말",
+  "audio": "LF/words/LF_Day13/08_socks.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 9,
+  "word": "pants",
+  "korean": "n. 바지",
+  "korean_say": "바지",
+  "audio": "LF/words/LF_Day13/09_pants.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 13,
+  "no": 10,
+  "word": "shoes",
+  "korean": "n. 신발",
+  "korean_say": "신발",
+  "audio": "LF/words/LF_Day13/10_shoes.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 14,
+  "no": 1,
+  "word": "show",
+  "korean": "v. 보여주다",
+  "korean_say": "보여주다",
+  "audio": "LF/words/LF_Day14/01_show.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 14,
+  "no": 2,
+  "word": "help",
+  "korean": "v. 도와주다",
+  "korean_say": "도와주다",
+  "audio": "LF/words/LF_Day14/02_help.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 14,
+  "no": 3,
+  "word": "practice",
+  "korean": "v. 연습하다",
+  "korean_say": "연습하다",
+  "audio": "LF/words/LF_Day14/03_practice.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 14,
+  "no": 4,
+  "word": "pack",
+  "korean": "v. (짐을) 싸다",
+  "korean_say": "(짐을) 싸다",
+  "audio": "LF/words/LF_Day14/04_pack.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 14,
+  "no": 5,
+  "word": "look for",
+  "korean": "v. 찾다",
+  "korean_say": "찾다",
+  "audio": "LF/words/LF_Day14/05_look_for.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 14,
+  "no": 6,
+  "word": "take a picture",
+  "korean": "v. 사진을 찍다",
+  "korean_say": "사진을 찍다",
+  "audio": "LF/words/LF_Day14/06_take_a_picture.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 14,
+  "no": 7,
+  "word": "stand",
+  "korean": "v. 서 있다",
+  "korean_say": "서 있다",
+  "audio": "LF/words/LF_Day14/07_stand.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 14,
+  "no": 8,
+  "word": "close",
+  "korean": "v. 닫다",
+  "korean_say": "닫다",
+  "audio": "LF/words/LF_Day14/08_close.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 15,
+  "no": 1,
+  "word": "sit",
+  "korean": "v. 앉다",
+  "korean_say": "앉다",
+  "audio": "LF/words/LF_Day15/01_sit.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 15,
+  "no": 2,
+  "word": "laugh",
+  "korean": "v. 웃다",
+  "korean_say": "웃다",
+  "audio": "LF/words/LF_Day15/02_laugh.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 15,
+  "no": 3,
+  "word": "answer",
+  "korean": "v. 대답하다",
+  "korean_say": "대답하다",
+  "audio": "LF/words/LF_Day15/03_answer.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 15,
+  "no": 4,
+  "word": "give",
+  "korean": "v. 주다",
+  "korean_say": "주다",
+  "audio": "LF/words/LF_Day15/04_give.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 15,
+  "no": 5,
+  "word": "enter",
+  "korean": "v. 들어가다",
+  "korean_say": "들어가다",
+  "audio": "LF/words/LF_Day15/05_enter.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 15,
+  "no": 6,
+  "word": "glue",
+  "korean": "v. (접착제로) 붙이다",
+  "korean_say": "(접착제로) 붙이다",
+  "audio": "LF/words/LF_Day15/06_glue.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 15,
+  "no": 7,
+  "word": "cut",
+  "korean": "v. 자르다",
+  "korean_say": "자르다",
+  "audio": "LF/words/LF_Day15/07_cut.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 15,
+  "no": 8,
+  "word": "teach",
+  "korean": "v. 가르치다",
+  "korean_say": "가르치다",
+  "audio": "LF/words/LF_Day15/08_teach.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 15,
+  "no": 9,
+  "word": "rest",
+  "korean": "v. 쉬다",
+  "korean_say": "쉬다",
+  "audio": "LF/words/LF_Day15/09_rest.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 1,
+  "word": "keyboard",
+  "korean": "n. 키보드",
+  "korean_say": "키보드",
+  "audio": "LF/words/LF_Day17/01_keyboard.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 2,
+  "word": "mouse",
+  "korean": "n. 마우스",
+  "korean_say": "마우스",
+  "audio": "LF/words/LF_Day17/02_mouse.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 3,
+  "word": "cell phone",
+  "korean": "n. 핸드폰",
+  "korean_say": "핸드폰",
+  "audio": "LF/words/LF_Day17/03_cell_phone.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 4,
+  "word": "computer",
+  "korean": "n. 컴퓨터",
+  "korean_say": "컴퓨터",
+  "audio": "LF/words/LF_Day17/04_computer.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 5,
+  "word": "camera",
+  "korean": "n. 카메라",
+  "korean_say": "카메라",
+  "audio": "LF/words/LF_Day17/05_camera.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 6,
+  "word": "television",
+  "korean": "n. 텔레비전",
+  "korean_say": "텔레비전",
+  "audio": "LF/words/LF_Day17/06_television.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 7,
+  "word": "big",
+  "korean": "adj. 큰",
+  "korean_say": "큰",
+  "audio": "LF/words/LF_Day17/07_big.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 8,
+  "word": "small",
+  "korean": "adj. 작은",
+  "korean_say": "작은",
+  "audio": "LF/words/LF_Day17/08_small.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 9,
+  "word": "new",
+  "korean": "adj. 새로운",
+  "korean_say": "새로운",
+  "audio": "LF/words/LF_Day17/09_new.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 17,
+  "no": 10,
+  "word": "old",
+  "korean": "adj. 오래된",
+  "korean_say": "오래된",
+  "audio": "LF/words/LF_Day17/10_old.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 18,
+  "no": 1,
+  "word": "backpack",
+  "korean": "n. 책가방",
+  "korean_say": "책가방",
+  "audio": "LF/words/LF_Day18/01_backpack.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 18,
+  "no": 2,
+  "word": "pencil",
+  "korean": "n. 연필",
+  "korean_say": "연필",
+  "audio": "LF/words/LF_Day18/02_pencil.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 18,
+  "no": 3,
+  "word": "pen",
+  "korean": "n. 펜",
+  "korean_say": "펜",
+  "audio": "LF/words/LF_Day18/03_pen.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 18,
+  "no": 4,
+  "word": "eraser",
+  "korean": "n. 지우개",
+  "korean_say": "지우개",
+  "audio": "LF/words/LF_Day18/04_eraser.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 18,
+  "no": 5,
+  "word": "lunchbox",
+  "korean": "n. 도시락",
+  "korean_say": "도시락",
+  "audio": "LF/words/LF_Day18/05_lunchbox.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 18,
+  "no": 6,
+  "word": "textbook",
+  "korean": "n. 교과서",
+  "korean_say": "교과서",
+  "audio": "LF/words/LF_Day18/06_textbook.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 18,
+  "no": 7,
+  "word": "crayon",
+  "korean": "n. 크레용",
+  "korean_say": "크레용",
+  "audio": "LF/words/LF_Day18/07_crayon.mp3"
+ },
+ {
+  "course": "LF",
+  "day": 18,
+  "no": 8,
+  "word": "pencil case",
+  "korean": "n. 필통",
+  "korean_say": "필통",
+  "audio": "LF/words/LF_Day18/08_pencil_case.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 1,
+  "no": 1,
+  "word": "color",
+  "korean": "n. 색깔",
+  "korean_say": "색깔",
+  "sentence": "Eat many different colors.",
+  "sentence_say": "Eat many different colors.",
+  "audio": "NS/words/NS_Day01/01_color.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 1,
+  "no": 2,
+  "word": "dessert",
+  "korean": "n. 후식, 디저트",
+  "korean_say": "후식, 디저트",
+  "sentence": "Fruit can be dessert.",
+  "sentence_say": "Fruit can be dessert.",
+  "audio": "NS/words/NS_Day01/02_dessert.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 1,
+  "no": 3,
+  "word": "grow",
+  "korean": "v. 자라다",
+  "korean_say": "자라다",
+  "sentence": "They help you grow.",
+  "sentence_say": "They help you grow.",
+  "audio": "NS/words/NS_Day01/03_grow.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 1,
+  "no": 4,
+  "word": "salad",
+  "korean": "n. 샐러드",
+  "korean_say": "샐러드",
+  "sentence": "You can make a salad.",
+  "sentence_say": "You can make a salad.",
+  "audio": "NS/words/NS_Day01/04_salad.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 1,
+  "no": 5,
+  "word": "strong",
+  "korean": "adj. 강한",
+  "korean_say": "강한",
+  "sentence": "They help make your body strong.",
+  "sentence_say": "They help make your body strong.",
+  "audio": "NS/words/NS_Day01/05_strong.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 1,
+  "no": 6,
+  "word": "sweet",
+  "korean": "adj. 달콤한, 단",
+  "korean_say": "달콤한, 단",
+  "sentence": "It tastes sweet.",
+  "sentence_say": "It tastes sweet.",
+  "audio": "NS/words/NS_Day01/06_sweet.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 1,
+  "no": 7,
+  "word": "taste",
+  "korean": "v. …맛이 나다",
+  "korean_say": "맛이 나다",
+  "sentence": "It tastes sweet.",
+  "sentence_say": "It tastes sweet.",
+  "audio": "NS/words/NS_Day01/07_taste.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 1,
+  "no": 8,
+  "word": "vegetable",
+  "korean": "n. 야채",
+  "korean_say": "야채",
+  "sentence": "We eat vegetables.",
+  "sentence_say": "We eat vegetables.",
+  "audio": "NS/words/NS_Day01/08_vegetable.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 2,
+  "no": 1,
+  "word": "animal",
+  "korean": "n. 동물",
+  "korean_say": "동물",
+  "sentence": "The artists look at a real animal.",
+  "sentence_say": "The artists look at a real animal.",
+  "audio": "NS/words/NS_Day02/01_animal.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 2,
+  "no": 2,
+  "word": "cartoon",
+  "korean": "n. 만화",
+  "korean_say": "만화",
+  "sentence": "Now they can make a cartoon animal.",
+  "sentence_say": "Now they can make a cartoon animal.",
+  "audio": "NS/words/NS_Day02/02_cartoon.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 2,
+  "no": 3,
+  "word": "computer",
+  "korean": "n. 컴퓨터",
+  "korean_say": "컴퓨터",
+  "sentence": "Some artists use a computer.",
+  "sentence_say": "Some artists use a computer.",
+  "audio": "NS/words/NS_Day02/03_computer.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 2,
+  "no": 4,
+  "word": "eye",
+  "korean": "n. 눈",
+  "korean_say": "눈",
+  "sentence": "They study its eyes.",
+  "sentence_say": "They study its eyes.",
+  "audio": "NS/words/NS_Day02/04_eye.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 2,
+  "no": 5,
+  "word": "learn",
+  "korean": "v. 배우다",
+  "korean_say": "배우다",
+  "sentence": "They learn when it's sad.",
+  "sentence_say": "They learn when it's sad.",
+  "audio": "NS/words/NS_Day02/05_learn.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 2,
+  "no": 6,
+  "word": "pencil",
+  "korean": "n. 연필",
+  "korean_say": "연필",
+  "sentence": "Some artists draw with a pencil.",
+  "sentence_say": "Some artists draw with a pencil.",
+  "audio": "NS/words/NS_Day02/06_pencil.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 2,
+  "no": 7,
+  "word": "skill",
+  "korean": "n. 기술",
+  "korean_say": "기술",
+  "sentence": "Then they use their skills.",
+  "sentence_say": "Then they use their skills.",
+  "audio": "NS/words/NS_Day02/07_skill.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 2,
+  "no": 8,
+  "word": "walk",
+  "korean": "v. 걷다",
+  "korean_say": "걷다",
+  "sentence": "They watch the animal run and walk.",
+  "sentence_say": "They watch the animal run and walk.",
+  "audio": "NS/words/NS_Day02/08_walk.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 3,
+  "no": 1,
+  "word": "our",
+  "korean": "det. 우리의",
+  "korean_say": "우리의",
+  "sentence": "This is our band.",
+  "sentence_say": "This is our band.",
+  "audio": "NS/words/NS_Day03/01_our.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 3,
+  "no": 2,
+  "word": "instrument",
+  "korean": "n. 악기",
+  "korean_say": "악기",
+  "sentence": "We all play an instrument.",
+  "sentence_say": "We all play an instrument.",
+  "audio": "NS/words/NS_Day03/02_instrument.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 3,
+  "no": 3,
+  "word": "guitar",
+  "korean": "n. 기타",
+  "korean_say": "기타",
+  "sentence": "He plays the guitar.",
+  "sentence_say": "He plays the guitar.",
+  "audio": "NS/words/NS_Day03/03_guitar.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 3,
+  "no": 4,
+  "word": "violin",
+  "korean": "n. 바이올린",
+  "korean_say": "바이올린",
+  "sentence": "She plays the violin.",
+  "sentence_say": "She plays the violin.",
+  "audio": "NS/words/NS_Day03/04_violin.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 3,
+  "no": 5,
+  "word": "trumpet",
+  "korean": "n. 트럼펫",
+  "korean_say": "트럼펫",
+  "sentence": "He plays the trumpet.",
+  "sentence_say": "He plays the trumpet.",
+  "audio": "NS/words/NS_Day03/05_trumpet.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 3,
+  "no": 6,
+  "word": "piano",
+  "korean": "n. 피아노",
+  "korean_say": "피아노",
+  "sentence": "She plays the piano.",
+  "sentence_say": "She plays the piano.",
+  "audio": "NS/words/NS_Day03/06_piano.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 3,
+  "no": 7,
+  "word": "sound",
+  "korean": "v. …하게 들리다",
+  "korean_say": "하게 들리다",
+  "sentence": "Our band sounds great.",
+  "sentence_say": "Our band sounds great.",
+  "audio": "NS/words/NS_Day03/07_sound.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 3,
+  "no": 8,
+  "word": "jam",
+  "korean": "v. 즉흥 연주를 하다",
+  "korean_say": "즉흥 연주를 하다",
+  "sentence": "Let's jam together!",
+  "sentence_say": "Let's jam together!",
+  "audio": "NS/words/NS_Day03/08_jam.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 4,
+  "no": 1,
+  "word": "plant",
+  "korean": "n. 식물",
+  "korean_say": "식물",
+  "sentence": "Plants have many parts.",
+  "sentence_say": "Plants have many parts.",
+  "audio": "NS/words/NS_Day04/01_plant.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 4,
+  "no": 2,
+  "word": "fruit",
+  "korean": "n. 과일, 열매",
+  "korean_say": "과일, 열매",
+  "sentence": "Fruits hold the seeds.",
+  "sentence_say": "Fruits hold the seeds.",
+  "audio": "NS/words/NS_Day04/02_fruit.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 4,
+  "no": 3,
+  "word": "hold",
+  "korean": "v. 잡다",
+  "korean_say": "잡다",
+  "sentence": "Fruits hold the seeds.",
+  "sentence_say": "Fruits hold the seeds.",
+  "audio": "NS/words/NS_Day04/03_hold.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 4,
+  "no": 4,
+  "word": "leaf",
+  "korean": "n. 잎",
+  "korean_say": "잎",
+  "sentence": "Leaves make food.",
+  "sentence_say": "Leaves make food.",
+  "audio": "NS/words/NS_Day04/04_leaf.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 4,
+  "no": 5,
+  "word": "part",
+  "korean": "n. 부분",
+  "korean_say": "부분",
+  "sentence": "We eat different parts of plants!",
+  "sentence_say": "We eat different parts of plants!",
+  "audio": "NS/words/NS_Day04/05_part.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 4,
+  "no": 6,
+  "word": "root",
+  "korean": "n. 뿌리",
+  "korean_say": "뿌리",
+  "sentence": "Roots help the plant drink.",
+  "sentence_say": "Roots help the plant drink.",
+  "audio": "NS/words/NS_Day04/06_root.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 4,
+  "no": 7,
+  "word": "seed",
+  "korean": "n. 씨앗",
+  "korean_say": "씨앗",
+  "sentence": "Flowers and seeds make more plants.",
+  "sentence_say": "Flowers and seeds make more plants.",
+  "audio": "NS/words/NS_Day04/07_seed.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 4,
+  "no": 8,
+  "word": "stem",
+  "korean": "n. 줄기",
+  "korean_say": "줄기",
+  "sentence": "Stems hold the other parts.",
+  "sentence_say": "Stems hold the other parts.",
+  "audio": "NS/words/NS_Day04/08_stem.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 5,
+  "no": 1,
+  "word": "roundabout",
+  "korean": "n. 로터리",
+  "korean_say": "로터리",
+  "sentence": "Roundabouts are circles.",
+  "sentence_say": "Roundabouts are circles.",
+  "audio": "NS/words/NS_Day05/01_roundabout.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 5,
+  "no": 2,
+  "word": "around",
+  "korean": "prep. 빙 돌아",
+  "korean_say": "빙 돌아",
+  "sentence": "Cars go around them.",
+  "sentence_say": "Cars go around them.",
+  "audio": "NS/words/NS_Day05/02_around.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 5,
+  "no": 3,
+  "word": "circle",
+  "korean": "n. 원",
+  "korean_say": "원",
+  "sentence": "Roundabouts are circles.",
+  "sentence_say": "Roundabouts are circles.",
+  "audio": "NS/words/NS_Day05/03_circle.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 5,
+  "no": 4,
+  "word": "look",
+  "korean": "v. 보다",
+  "korean_say": "보다",
+  "sentence": "Drivers go slow and look.",
+  "sentence_say": "Drivers go slow and look.",
+  "audio": "NS/words/NS_Day05/04_look.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 5,
+  "no": 5,
+  "word": "move",
+  "korean": "v. 움직이다",
+  "korean_say": "움직이다",
+  "sentence": "Cars keep moving.",
+  "sentence_say": "Cars keep moving.",
+  "audio": "NS/words/NS_Day05/05_move.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 5,
+  "no": 6,
+  "word": "safely",
+  "korean": "adv. 안전하게",
+  "korean_say": "안전하게",
+  "sentence": "The cars can turn safely.",
+  "sentence_say": "The cars can turn safely.",
+  "audio": "NS/words/NS_Day05/06_safely.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 5,
+  "no": 7,
+  "word": "slow",
+  "korean": "adv. 천천히",
+  "korean_say": "천천히",
+  "sentence": "Drivers go slow and look.",
+  "sentence_say": "Drivers go slow and look.",
+  "audio": "NS/words/NS_Day05/07_slow.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 5,
+  "no": 8,
+  "word": "turn",
+  "korean": "v. 돌다",
+  "korean_say": "돌다",
+  "sentence": "The cars can turn safely.",
+  "sentence_say": "The cars can turn safely.",
+  "audio": "NS/words/NS_Day05/08_turn.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 6,
+  "no": 1,
+  "word": "pie",
+  "korean": "n. 파이",
+  "korean_say": "파이",
+  "sentence": "Let's make a pumpkin pie.",
+  "sentence_say": "Let's make a pumpkin pie.",
+  "audio": "NS/words/NS_Day06/01_pie.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 6,
+  "no": 2,
+  "word": "store",
+  "korean": "n. 가게",
+  "korean_say": "가게",
+  "sentence": "Let's go to the store.",
+  "sentence_say": "Let's go to the store.",
+  "audio": "NS/words/NS_Day06/02_store.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 6,
+  "no": 3,
+  "word": "buy",
+  "korean": "v. 사다",
+  "korean_say": "사다",
+  "sentence": "We need to buy the ingredients.",
+  "sentence_say": "We need to buy the ingredients.",
+  "audio": "NS/words/NS_Day06/03_buy.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 6,
+  "no": 4,
+  "word": "butter",
+  "korean": "n. 버터",
+  "korean_say": "버터",
+  "sentence": "We need to buy some butter.",
+  "sentence_say": "We need to buy some butter.",
+  "audio": "NS/words/NS_Day06/04_butter.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 6,
+  "no": 5,
+  "word": "sugar",
+  "korean": "n. 설탕",
+  "korean_say": "설탕",
+  "sentence": "We need to buy some sugar.",
+  "sentence_say": "We need to buy some sugar.",
+  "audio": "NS/words/NS_Day06/05_sugar.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 6,
+  "no": 6,
+  "word": "spice",
+  "korean": "n. 양념, 향신료",
+  "korean_say": "양념, 향신료",
+  "sentence": "We need to buy some spices.",
+  "sentence_say": "We need to buy some spices.",
+  "audio": "NS/words/NS_Day06/06_spice.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 6,
+  "no": 7,
+  "word": "pumpkin",
+  "korean": "n. 호박",
+  "korean_say": "호박",
+  "sentence": "We need to buy a pumpkin.",
+  "sentence_say": "We need to buy a pumpkin.",
+  "audio": "NS/words/NS_Day06/07_pumpkin.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 6,
+  "no": 8,
+  "word": "start",
+  "korean": "v. 시작하다",
+  "korean_say": "시작하다",
+  "sentence": "Let's start cooking!",
+  "sentence_say": "Let's start cooking!",
+  "audio": "NS/words/NS_Day06/08_start.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 8,
+  "no": 1,
+  "word": "far",
+  "korean": "adv. 멀리",
+  "korean_say": "멀리",
+  "sentence": "They try to throw them far.",
+  "sentence_say": "They try to throw them far.",
+  "audio": "NS/words/NS_Day08/01_far.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 8,
+  "no": 2,
+  "word": "hammer",
+  "korean": "n. 망치",
+  "korean_say": "망치",
+  "sentence": "People throw logs, rocks, and hammers.",
+  "sentence_say": "People throw logs, rocks, and hammers.",
+  "audio": "NS/words/NS_Day08/02_hammer.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 8,
+  "no": 3,
+  "word": "happen",
+  "korean": "v. 일어나다",
+  "korean_say": "일어나다",
+  "sentence": "The games happen in other places, too.",
+  "sentence_say": "The games happen in other places, too.",
+  "audio": "NS/words/NS_Day08/03_happen.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 8,
+  "no": 4,
+  "word": "log",
+  "korean": "n. 통나무",
+  "korean_say": "통나무",
+  "sentence": "People throw logs, rocks, and hammers.",
+  "sentence_say": "People throw logs, rocks, and hammers.",
+  "audio": "NS/words/NS_Day08/04_log.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 8,
+  "no": 5,
+  "word": "many",
+  "korean": "det. 많은",
+  "korean_say": "많은",
+  "sentence": "Many people play the games.",
+  "sentence_say": "Many people play the games.",
+  "audio": "NS/words/NS_Day08/05_many.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 8,
+  "no": 6,
+  "word": "other",
+  "korean": "adj. 다른",
+  "korean_say": "다른",
+  "sentence": "The games happen in other places, too.",
+  "sentence_say": "The games happen in other places, too.",
+  "audio": "NS/words/NS_Day08/06_other.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 8,
+  "no": 7,
+  "word": "rock",
+  "korean": "n. 바위",
+  "korean_say": "바위",
+  "sentence": "People throw logs, rocks, and hammers.",
+  "sentence_say": "People throw logs, rocks, and hammers.",
+  "audio": "NS/words/NS_Day08/07_rock.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 8,
+  "no": 8,
+  "word": "throw",
+  "korean": "v. 던지다",
+  "korean_say": "던지다",
+  "sentence": "They try to throw them far.",
+  "sentence_say": "They try to throw them far.",
+  "audio": "NS/words/NS_Day08/08_throw.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 9,
+  "no": 1,
+  "word": "confused",
+  "korean": "adj. 혼란스러운",
+  "korean_say": "혼란스러운",
+  "sentence": "Without lines, people feel confused.",
+  "sentence_say": "Without lines, people feel confused.",
+  "audio": "NS/words/NS_Day09/01_confused.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 9,
+  "no": 2,
+  "word": "front",
+  "korean": "n. 앞",
+  "korean_say": "앞",
+  "sentence": "The person in front goes first.",
+  "sentence_say": "The person in front goes first.",
+  "audio": "NS/words/NS_Day09/02_front.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 9,
+  "no": 3,
+  "word": "line",
+  "korean": "n. 줄",
+  "korean_say": "줄",
+  "sentence": "We wait in line at bus stops.",
+  "sentence_say": "We wait in line at bus stops.",
+  "audio": "NS/words/NS_Day09/03_line.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 9,
+  "no": 4,
+  "word": "person",
+  "korean": "n. 사람",
+  "korean_say": "사람",
+  "sentence": "The person in front goes first.",
+  "sentence_say": "The person in front goes first.",
+  "audio": "NS/words/NS_Day09/04_person.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 9,
+  "no": 5,
+  "word": "simple",
+  "korean": "adj. 간단한",
+  "korean_say": "간단한",
+  "sentence": "Lines are simple.",
+  "sentence_say": "Lines are simple.",
+  "audio": "NS/words/NS_Day09/05_simple.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 9,
+  "no": 6,
+  "word": "turn",
+  "korean": "n. 차례, 순서",
+  "korean_say": "차례, 순서",
+  "sentence": "People wait their turn.",
+  "sentence_say": "People wait their turn.",
+  "audio": "NS/words/NS_Day09/06_turn.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 9,
+  "no": 7,
+  "word": "wait",
+  "korean": "v. 기다리다",
+  "korean_say": "기다리다",
+  "sentence": "We wait in line at stores.",
+  "sentence_say": "We wait in line at stores.",
+  "audio": "NS/words/NS_Day09/07_wait.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 9,
+  "no": 8,
+  "word": "yell",
+  "korean": "v. 고함치다",
+  "korean_say": "고함치다",
+  "sentence": "They might push or yell.",
+  "sentence_say": "They might push or yell.",
+  "audio": "NS/words/NS_Day09/08_yell.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 10,
+  "no": 1,
+  "word": "brown",
+  "korean": "adj. 갈색의",
+  "korean_say": "갈색의",
+  "sentence": "They have brown fur.",
+  "sentence_say": "They have brown fur.",
+  "audio": "NS/words/NS_Day10/01_brown.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 10,
+  "no": 2,
+  "word": "care",
+  "korean": "v. 돌보다",
+  "korean_say": "돌보다",
+  "sentence": "They help care for babies.",
+  "sentence_say": "They help care for babies.",
+  "audio": "NS/words/NS_Day10/02_care.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 10,
+  "no": 3,
+  "word": "cute",
+  "korean": "adj. 귀여운",
+  "korean_say": "귀여운",
+  "sentence": "They are very cute.",
+  "sentence_say": "They are very cute.",
+  "audio": "NS/words/NS_Day10/03_cute.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 10,
+  "no": 4,
+  "word": "fur",
+  "korean": "n. 털",
+  "korean_say": "털",
+  "sentence": "They have brown fur.",
+  "sentence_say": "They have brown fur.",
+  "audio": "NS/words/NS_Day10/04_fur.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 10,
+  "no": 5,
+  "word": "group",
+  "korean": "n. 무리, 집단",
+  "korean_say": "무리, 집단",
+  "sentence": "Meerkats live in groups.",
+  "sentence_say": "Meerkats live in groups.",
+  "audio": "NS/words/NS_Day10/05_group.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 10,
+  "no": 6,
+  "word": "help",
+  "korean": "v. 도와주다",
+  "korean_say": "도와주다",
+  "sentence": "Meerkats help each other.",
+  "sentence_say": "Meerkats help each other.",
+  "audio": "NS/words/NS_Day10/06_help.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 10,
+  "no": 7,
+  "word": "live",
+  "korean": "v. 살다",
+  "korean_say": "살다",
+  "sentence": "Meerkats live in groups.",
+  "sentence_say": "Meerkats live in groups.",
+  "audio": "NS/words/NS_Day10/07_live.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 10,
+  "no": 8,
+  "word": "safe",
+  "korean": "adj. 안전한",
+  "korean_say": "안전한",
+  "sentence": "They help stay safe.",
+  "sentence_say": "They help stay safe.",
+  "audio": "NS/words/NS_Day10/08_safe.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 11,
+  "no": 1,
+  "word": "zoo",
+  "korean": "n. 동물원",
+  "korean_say": "동물원",
+  "sentence": "Let's go to the zoo.",
+  "sentence_say": "Let's go to the zoo.",
+  "audio": "NS/words/NS_Day11/01_zoo.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 11,
+  "no": 2,
+  "word": "see",
+  "korean": "v. 보다",
+  "korean_say": "보다",
+  "sentence": "We see the bats.",
+  "sentence_say": "We see the bats.",
+  "audio": "NS/words/NS_Day11/02_see.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 11,
+  "no": 3,
+  "word": "bat",
+  "korean": "n. 박쥐",
+  "korean_say": "박쥐",
+  "sentence": "We see the bats.",
+  "sentence_say": "We see the bats.",
+  "audio": "NS/words/NS_Day11/03_bat.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 11,
+  "no": 4,
+  "word": "eat",
+  "korean": "v. 먹다",
+  "korean_say": "먹다",
+  "sentence": "What do bats like to eat?",
+  "sentence_say": "What do bats like to eat?",
+  "audio": "NS/words/NS_Day11/04_eat.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 11,
+  "no": 5,
+  "word": "penguin",
+  "korean": "n. 펭귄",
+  "korean_say": "펭귄",
+  "sentence": "We see the penguins.",
+  "sentence_say": "We see the penguins.",
+  "audio": "NS/words/NS_Day11/05_penguin.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 11,
+  "no": 6,
+  "word": "giraffe",
+  "korean": "n. 기린",
+  "korean_say": "기린",
+  "sentence": "We see the giraffes.",
+  "sentence_say": "We see the giraffes.",
+  "audio": "NS/words/NS_Day11/06_giraffe.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 11,
+  "no": 7,
+  "word": "lion",
+  "korean": "n. 사자",
+  "korean_say": "사자",
+  "sentence": "We see the lions.",
+  "sentence_say": "We see the lions.",
+  "audio": "NS/words/NS_Day11/07_lion.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 11,
+  "no": 8,
+  "word": "meat",
+  "korean": "n. 고기",
+  "korean_say": "고기",
+  "sentence": "They eat meat.",
+  "sentence_say": "They eat meat.",
+  "audio": "NS/words/NS_Day11/08_meat.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 12,
+  "no": 1,
+  "word": "blue",
+  "korean": "n. 파랑",
+  "korean_say": "파랑",
+  "sentence": "We feel friendly when we see blue.",
+  "sentence_say": "We feel friendly when we see blue.",
+  "audio": "NS/words/NS_Day12/01_blue.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 12,
+  "no": 2,
+  "word": "change",
+  "korean": "v. 바꾸다",
+  "korean_say": "바꾸다",
+  "sentence": "Color changes how we feel.",
+  "sentence_say": "Color changes how we feel.",
+  "audio": "NS/words/NS_Day12/02_change.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 12,
+  "no": 3,
+  "word": "color",
+  "korean": "n. 색깔",
+  "korean_say": "색깔",
+  "sentence": "We see color with our eyes.",
+  "sentence_say": "We see color with our eyes.",
+  "audio": "NS/words/NS_Day12/03_color.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 12,
+  "no": 4,
+  "word": "feel",
+  "korean": "v. 느끼다",
+  "korean_say": "느끼다",
+  "sentence": "Color changes how we feel.",
+  "sentence_say": "Color changes how we feel.",
+  "audio": "NS/words/NS_Day12/04_feel.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 12,
+  "no": 5,
+  "word": "green",
+  "korean": "adj. 녹색의",
+  "korean_say": "녹색의",
+  "sentence": "Grapes are green or purple.",
+  "sentence_say": "Grapes are green or purple.",
+  "audio": "NS/words/NS_Day12/05_green.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 12,
+  "no": 6,
+  "word": "happy",
+  "korean": "adj. 행복한",
+  "korean_say": "행복한",
+  "sentence": "We feel happy when we see yellow.",
+  "sentence_say": "We feel happy when we see yellow.",
+  "audio": "NS/words/NS_Day12/06_happy.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 12,
+  "no": 7,
+  "word": "red",
+  "korean": "adj. 빨간색의",
+  "korean_say": "빨간색의",
+  "sentence": "Apples are red or green.",
+  "sentence_say": "Apples are red or green.",
+  "audio": "NS/words/NS_Day12/07_red.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 12,
+  "no": 8,
+  "word": "yellow",
+  "korean": "n. 노랑",
+  "korean_say": "노랑",
+  "sentence": "We feel happy when we see yellow.",
+  "sentence_say": "We feel happy when we see yellow.",
+  "audio": "NS/words/NS_Day12/08_yellow.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 13,
+  "no": 1,
+  "word": "chew",
+  "korean": "v. 씹다",
+  "korean_say": "씹다",
+  "sentence": "Chew quietly.",
+  "sentence_say": "Chew quietly.",
+  "audio": "NS/words/NS_Day13/01_chew.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 13,
+  "no": 2,
+  "word": "fork",
+  "korean": "n. 포크",
+  "korean_say": "포크",
+  "sentence": "Use your fork.",
+  "sentence_say": "Use your fork.",
+  "audio": "NS/words/NS_Day13/02_fork.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 13,
+  "no": 3,
+  "word": "knife",
+  "korean": "n. 나이프, 칼",
+  "korean_say": "나이프, 칼",
+  "sentence": "Use your knife and spoon.",
+  "sentence_say": "Use your knife and spoon.",
+  "audio": "NS/words/NS_Day13/03_knife.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 13,
+  "no": 4,
+  "word": "manners",
+  "korean": "n. 예절",
+  "korean_say": "예절",
+  "sentence": "Be sure to use good manners.",
+  "sentence_say": "Be sure to use good manners.",
+  "audio": "NS/words/NS_Day13/04_manners.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 13,
+  "no": 5,
+  "word": "meal",
+  "korean": "n. 식사",
+  "korean_say": "식사",
+  "sentence": "Meals can be fun.",
+  "sentence_say": "Meals can be fun.",
+  "audio": "NS/words/NS_Day13/05_meal.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 13,
+  "no": 6,
+  "word": "napkin",
+  "korean": "n. 냅킨",
+  "korean_say": "냅킨",
+  "sentence": "Use your napkin, too.",
+  "sentence_say": "Use your napkin, too.",
+  "audio": "NS/words/NS_Day13/06_napkin.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 13,
+  "no": 7,
+  "word": "shout",
+  "korean": "v. 소리치다",
+  "korean_say": "소리치다",
+  "sentence": "Don't shout.",
+  "sentence_say": "Don't shout.",
+  "audio": "NS/words/NS_Day13/07_shout.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 13,
+  "no": 8,
+  "word": "spoon",
+  "korean": "n. 숟가락",
+  "korean_say": "숟가락",
+  "sentence": "Use your knife and spoon.",
+  "sentence_say": "Use your knife and spoon.",
+  "audio": "NS/words/NS_Day13/08_spoon.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 14,
+  "no": 1,
+  "word": "help",
+  "korean": "v. 도와주다",
+  "korean_say": "도와주다",
+  "sentence": "I like to help out on the farm.",
+  "sentence_say": "I like to help out on the farm.",
+  "audio": "NS/words/NS_Day14/01_help.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 14,
+  "no": 2,
+  "word": "farm",
+  "korean": "n. 농장",
+  "korean_say": "농장",
+  "sentence": "I like to help out on the farm.",
+  "sentence_say": "I like to help out on the farm.",
+  "audio": "NS/words/NS_Day14/02_farm.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 14,
+  "no": 3,
+  "word": "barn",
+  "korean": "n. 곳간",
+  "korean_say": "곳간",
+  "sentence": "I give the animals food in the barn.",
+  "sentence_say": "I give the animals food in the barn.",
+  "audio": "NS/words/NS_Day14/03_barn.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 14,
+  "no": 4,
+  "word": "lamb",
+  "korean": "n. 어린 양",
+  "korean_say": "어린 양",
+  "sentence": "I give the lambs food.",
+  "sentence_say": "I give the lambs food.",
+  "audio": "NS/words/NS_Day14/04_lamb.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 14,
+  "no": 5,
+  "word": "wool",
+  "korean": "n. 양털",
+  "korean_say": "양털",
+  "sentence": "The lambs give us wool.",
+  "sentence_say": "The lambs give us wool.",
+  "audio": "NS/words/NS_Day14/05_wool.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 14,
+  "no": 6,
+  "word": "milk",
+  "korean": "n. 우유",
+  "korean_say": "우유",
+  "sentence": "The cows give us milk.",
+  "sentence_say": "The cows give us milk.",
+  "audio": "NS/words/NS_Day14/06_milk.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 14,
+  "no": 7,
+  "word": "egg",
+  "korean": "n. 달걀",
+  "korean_say": "달걀",
+  "sentence": "The chickens give us eggs.",
+  "sentence_say": "The chickens give us eggs.",
+  "audio": "NS/words/NS_Day14/07_egg.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 14,
+  "no": 8,
+  "word": "donkey",
+  "korean": "n. 당나귀",
+  "korean_say": "당나귀",
+  "sentence": "I give the donkeys food.",
+  "sentence_say": "I give the donkeys food.",
+  "audio": "NS/words/NS_Day14/08_donkey.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 16,
+  "no": 1,
+  "word": "lay",
+  "korean": "v. (알을) 낳다",
+  "korean_say": "(알을) 낳다",
+  "sentence": "Mom lays an egg.",
+  "sentence_say": "Mom lays an egg.",
+  "audio": "NS/words/NS_Day16/01_lay.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 16,
+  "no": 2,
+  "word": "keep",
+  "korean": "v. 유지하다",
+  "korean_say": "유지하다",
+  "sentence": "He keeps it warm.",
+  "sentence_say": "He keeps it warm.",
+  "audio": "NS/words/NS_Day16/02_keep.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 16,
+  "no": 3,
+  "word": "month",
+  "korean": "n. 달",
+  "korean_say": "달",
+  "sentence": "He watches it for two months!",
+  "sentence_say": "He watches it for two months!",
+  "audio": "NS/words/NS_Day16/03_month.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 16,
+  "no": 4,
+  "word": "rest",
+  "korean": "v. 쉬다",
+  "korean_say": "쉬다",
+  "sentence": "Mom can rest.",
+  "sentence_say": "Mom can rest.",
+  "audio": "NS/words/NS_Day16/04_rest.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 16,
+  "no": 5,
+  "word": "tired",
+  "korean": "adj. 피곤한",
+  "korean_say": "피곤한",
+  "sentence": "She is tired and hungry.",
+  "sentence_say": "She is tired and hungry.",
+  "audio": "NS/words/NS_Day16/05_tired.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 16,
+  "no": 6,
+  "word": "work",
+  "korean": "v. 일하다",
+  "korean_say": "일하다",
+  "sentence": "Mom and dad penguins work together.",
+  "sentence_say": "Mom and dad penguins work together.",
+  "audio": "NS/words/NS_Day16/06_work.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 16,
+  "no": 7,
+  "word": "together",
+  "korean": "adv. 함께",
+  "korean_say": "함께",
+  "sentence": "Mom and dad penguins work together.",
+  "sentence_say": "Mom and dad penguins work together.",
+  "audio": "NS/words/NS_Day16/07_together.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 16,
+  "no": 8,
+  "word": "warm",
+  "korean": "adj. 따뜻한",
+  "korean_say": "따뜻한",
+  "sentence": "He keeps it warm.",
+  "sentence_say": "He keeps it warm.",
+  "audio": "NS/words/NS_Day16/08_warm.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 17,
+  "no": 1,
+  "word": "tooth",
+  "korean": "n. 이 (복수형: teeth)",
+  "korean_say": "이",
+  "sentence": "We need healthy teeth.",
+  "sentence_say": "We need healthy teeth.",
+  "audio": "NS/words/NS_Day17/01_tooth.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 17,
+  "no": 2,
+  "word": "cavity",
+  "korean": "n. 충치",
+  "korean_say": "충치",
+  "sentence": "Cavities are small holes.",
+  "sentence_say": "Cavities are small holes.",
+  "audio": "NS/words/NS_Day17/02_cavity.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 17,
+  "no": 3,
+  "word": "hurt",
+  "korean": "v. 아프게 하다",
+  "korean_say": "아프게 하다",
+  "sentence": "They hurt your teeth.",
+  "sentence_say": "They hurt your teeth.",
+  "audio": "NS/words/NS_Day17/03_hurt.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 17,
+  "no": 4,
+  "word": "hole",
+  "korean": "n. 구멍",
+  "korean_say": "구멍",
+  "sentence": "Cavities are small holes.",
+  "sentence_say": "Cavities are small holes.",
+  "audio": "NS/words/NS_Day17/04_hole.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 17,
+  "no": 5,
+  "word": "healthy",
+  "korean": "adj. 건강한",
+  "korean_say": "건강한",
+  "sentence": "Eat healthy foods.",
+  "sentence_say": "Eat healthy foods.",
+  "audio": "NS/words/NS_Day17/05_healthy.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 17,
+  "no": 6,
+  "word": "brush",
+  "korean": "v. 칫솔질을 하다",
+  "korean_say": "칫솔질을 하다",
+  "sentence": "Brush your teeth two or three times a day.",
+  "sentence_say": "Brush your teeth two or three times a day.",
+  "audio": "NS/words/NS_Day17/06_brush.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 17,
+  "no": 7,
+  "word": "floss",
+  "korean": "v. 치실질을 하다",
+  "korean_say": "치실질을 하다",
+  "sentence": "Floss them, too.",
+  "sentence_say": "Floss them, too.",
+  "audio": "NS/words/NS_Day17/07_floss.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 17,
+  "no": 8,
+  "word": "dentist",
+  "korean": "n. 치과의사",
+  "korean_say": "치과의사",
+  "sentence": "Go to the dentist.",
+  "sentence_say": "Go to the dentist.",
+  "audio": "NS/words/NS_Day17/08_dentist.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 18,
+  "no": 1,
+  "word": "chalk",
+  "korean": "n. 분필",
+  "korean_say": "분필",
+  "sentence": "They draw with chalk.",
+  "sentence_say": "They draw with chalk.",
+  "audio": "NS/words/NS_Day18/01_chalk.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 18,
+  "no": 2,
+  "word": "ink",
+  "korean": "n. 잉크",
+  "korean_say": "잉크",
+  "sentence": "They use a pen and ink.",
+  "sentence_say": "They use a pen and ink.",
+  "audio": "NS/words/NS_Day18/02_ink.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 18,
+  "no": 3,
+  "word": "paint",
+  "korean": "n. 페인트, 물감",
+  "korean_say": "페인트, 물감",
+  "sentence": "Many artists use paint.",
+  "sentence_say": "Many artists use paint.",
+  "audio": "NS/words/NS_Day18/03_paint.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 18,
+  "no": 4,
+  "word": "cloth",
+  "korean": "n. 천",
+  "korean_say": "천",
+  "sentence": "They paint on paper or cloth.",
+  "sentence_say": "They paint on paper or cloth.",
+  "audio": "NS/words/NS_Day18/04_cloth.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 18,
+  "no": 5,
+  "word": "pot",
+  "korean": "n. 도자기",
+  "korean_say": "도자기",
+  "sentence": "They make pots from clay.",
+  "sentence_say": "They make pots from clay.",
+  "audio": "NS/words/NS_Day18/05_pot.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 18,
+  "no": 6,
+  "word": "clay",
+  "korean": "n. 점토",
+  "korean_say": "점토",
+  "sentence": "They make pots from clay.",
+  "sentence_say": "They make pots from clay.",
+  "audio": "NS/words/NS_Day18/06_clay.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 18,
+  "no": 7,
+  "word": "wood",
+  "korean": "n. 나무",
+  "korean_say": "나무",
+  "sentence": "They cut wood.",
+  "sentence_say": "They cut wood.",
+  "audio": "NS/words/NS_Day18/07_wood.mp3"
+ },
+ {
+  "course": "NS",
+  "day": 18,
+  "no": 8,
+  "word": "pretty",
+  "korean": "adj. 예쁜",
+  "korean_say": "예쁜",
+  "sentence": "They make pretty things.",
+  "sentence_say": "They make pretty things.",
+  "audio": "NS/words/NS_Day18/08_pretty.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 1,
+  "word": "cape",
+  "korean": "n. 망토",
+  "korean_say": "망토",
+  "audio": "FW/words/FW_Page01/01_cape.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 2,
+  "word": "hood",
+  "korean": "n. (외투 등에 달린) 모자",
+  "korean_say": "(외투 등에 달린) 모자",
+  "audio": "FW/words/FW_Page01/02_hood.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 3,
+  "word": "stay",
+  "korean": "v. 계속 있다",
+  "korean_say": "계속 있다",
+  "audio": "FW/words/FW_Page01/03_stay.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 4,
+  "word": "path",
+  "korean": "n. 길",
+  "korean_say": "길",
+  "audio": "FW/words/FW_Page01/04_path.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 5,
+  "word": "start",
+  "korean": "v. 시작하다",
+  "korean_say": "시작하다",
+  "audio": "FW/words/FW_Page01/05_start.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 6,
+  "word": "pick",
+  "korean": "v. 따다",
+  "korean_say": "따다",
+  "audio": "FW/words/FW_Page01/06_pick.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 7,
+  "word": "first",
+  "korean": "adv. 맨 먼저",
+  "korean_say": "맨 먼저",
+  "audio": "FW/words/FW_Page01/07_first.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 8,
+  "word": "swallow",
+  "korean": "v. 삼키다",
+  "korean_say": "삼키다",
+  "audio": "FW/words/FW_Page01/08_swallow.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 9,
+  "word": "soon",
+  "korean": "adv. 곧",
+  "korean_say": "곧",
+  "audio": "FW/words/FW_Page01/09_soon.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 10,
+  "word": "better",
+  "korean": "adv. 더 잘",
+  "korean_say": "더 잘",
+  "audio": "FW/words/FW_Page01/10_better.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 11,
+  "word": "hear",
+  "korean": "v. 듣다",
+  "korean_say": "듣다",
+  "audio": "FW/words/FW_Page01/11_hear.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 12,
+  "word": "teeth",
+  "korean": "n. 이들, 이빨들",
+  "korean_say": "이들, 이빨들",
+  "audio": "FW/words/FW_Page01/12_teeth.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 13,
+  "word": "bit",
+  "korean": "v. 물었다",
+  "korean_say": "물었다",
+  "audio": "FW/words/FW_Page01/13_bit.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 14,
+  "word": "hunter",
+  "korean": "n. 사냥꾼",
+  "korean_say": "사냥꾼",
+  "audio": "FW/words/FW_Page01/14_hunter.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 15,
+  "word": "scare",
+  "korean": "v. 겁주다",
+  "korean_say": "겁주다",
+  "audio": "FW/words/FW_Page01/15_scare.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 16,
+  "word": "rescue",
+  "korean": "v. 구하다",
+  "korean_say": "구하다",
+  "audio": "FW/words/FW_Page01/16_rescue.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 17,
+  "word": "very",
+  "korean": "adv. 매우",
+  "korean_say": "매우",
+  "audio": "FW/words/FW_Page01/17_very.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 18,
+  "word": "beautiful",
+  "korean": "adj. 아름다운",
+  "korean_say": "아름다운",
+  "audio": "FW/words/FW_Page01/18_beautiful.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 19,
+  "word": "woodcutter",
+  "korean": "n. 나무꾼",
+  "korean_say": "나무꾼",
+  "audio": "FW/words/FW_Page01/19_woodcutter.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 20,
+  "word": "want to",
+  "korean": "v. –하고 싶어하다",
+  "korean_say": "하고 싶어하다",
+  "audio": "FW/words/FW_Page01/20_want_to.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 21,
+  "word": "marry",
+  "korean": "v. 결혼하다",
+  "korean_say": "결혼하다",
+  "audio": "FW/words/FW_Page01/21_marry.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 22,
+  "word": "daughter",
+  "korean": "n. 딸",
+  "korean_say": "딸",
+  "audio": "FW/words/FW_Page01/22_daughter.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 23,
+  "word": "afraid",
+  "korean": "adj. 무서워하는",
+  "korean_say": "무서워하는",
+  "audio": "FW/words/FW_Page01/23_afraid.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 24,
+  "word": "idea",
+  "korean": "n. 계획, 생각",
+  "korean_say": "계획, 생각",
+  "audio": "FW/words/FW_Page01/24_idea.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 25,
+  "word": "come back",
+  "korean": "phr. 돌아오다",
+  "korean_say": "돌아오다",
+  "audio": "FW/words/FW_Page01/25_come_back.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 26,
+  "word": "now",
+  "korean": "adv. 이제",
+  "korean_say": "이제",
+  "audio": "FW/words/FW_Page01/26_now.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 27,
+  "word": "sharp",
+  "korean": "adj. 날카로운",
+  "korean_say": "날카로운",
+  "audio": "FW/words/FW_Page01/27_sharp.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 28,
+  "word": "nail",
+  "korean": "n. 발톱, 손톱",
+  "korean_say": "발톱, 손톱",
+  "audio": "FW/words/FW_Page01/28_nail.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 29,
+  "word": "again",
+  "korean": "adv. 다시",
+  "korean_say": "다시",
+  "audio": "FW/words/FW_Page01/29_again.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 30,
+  "word": "claw",
+  "korean": "n. (동물, 새의) 발톱",
+  "korean_say": "(동물, 새의) 발톱",
+  "audio": "FW/words/FW_Page01/30_claw.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 31,
+  "word": "chase away",
+  "korean": "phr. 쫓아내다",
+  "korean_say": "쫓아내다",
+  "audio": "FW/words/FW_Page01/31_chase_away.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 32,
+  "word": "poor",
+  "korean": "adj. 불쌍한",
+  "korean_say": "불쌍한",
+  "audio": "FW/words/FW_Page01/32_poor.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 33,
+  "word": "dead",
+  "korean": "adj. 죽은",
+  "korean_say": "죽은",
+  "audio": "FW/words/FW_Page01/33_dead.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 34,
+  "word": "prettiest",
+  "korean": "adj. 가장 예쁜",
+  "korean_say": "가장 예쁜",
+  "audio": "FW/words/FW_Page01/34_prettiest.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 35,
+  "word": "mirror",
+  "korean": "n. 거울",
+  "korean_say": "거울",
+  "audio": "FW/words/FW_Page01/35_mirror.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 36,
+  "word": "run away",
+  "korean": "phr. 도망치다",
+  "korean_say": "도망치다",
+  "audio": "FW/words/FW_Page01/36_run_away.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 37,
+  "word": "find",
+  "korean": "v. 찾다",
+  "korean_say": "찾다",
+  "audio": "FW/words/FW_Page01/37_find.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 38,
+  "word": "woods",
+  "korean": "n. 숲",
+  "korean_say": "숲",
+  "audio": "FW/words/FW_Page01/38_woods.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 39,
+  "word": "news",
+  "korean": "n. 소식",
+  "korean_say": "소식",
+  "audio": "FW/words/FW_Page01/39_news.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 40,
+  "word": "look for",
+  "korean": "phr. 찾다",
+  "korean_say": "찾다",
+  "audio": "FW/words/FW_Page01/40_look_for.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 41,
+  "word": "apple",
+  "korean": "n. 사과",
+  "korean_say": "사과",
+  "audio": "FW/words/FW_Page01/41_apple.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 42,
+  "word": "magic",
+  "korean": "n. 마법",
+  "korean_say": "마법",
+  "audio": "FW/words/FW_Page01/42_magic.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 43,
+  "word": "go to sleep",
+  "korean": "phr. 잠이 들다",
+  "korean_say": "잠이 들다",
+  "audio": "FW/words/FW_Page01/43_go_to_sleep.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 44,
+  "word": "wake up",
+  "korean": "phr. (잠에서) 깨다",
+  "korean_say": "(잠에서) 깨다",
+  "audio": "FW/words/FW_Page01/44_wake_up.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 45,
+  "word": "think",
+  "korean": "v. 생각하다",
+  "korean_say": "생각하다",
+  "audio": "FW/words/FW_Page01/45_think.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 46,
+  "word": "put",
+  "korean": "v. 놓다",
+  "korean_say": "놓다",
+  "audio": "FW/words/FW_Page01/46_put.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 47,
+  "word": "young",
+  "korean": "adj. 어린, 젊은",
+  "korean_say": "어린, 젊은",
+  "audio": "FW/words/FW_Page01/47_young.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 1,
+  "no": 48,
+  "word": "stop",
+  "korean": "v. 멈추다",
+  "korean_say": "멈추다",
+  "audio": "FW/words/FW_Page01/48_stop.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 1,
+  "word": "all day",
+  "korean": "phr. 하루 종일",
+  "korean_say": "하루 종일",
+  "audio": "FW/words/FW_Page02/01_all_day.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 2,
+  "word": "work",
+  "korean": "v. 일하다",
+  "korean_say": "일하다",
+  "audio": "FW/words/FW_Page02/02_work.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 3,
+  "word": "money",
+  "korean": "n. 돈",
+  "korean_say": "돈",
+  "audio": "FW/words/FW_Page02/03_money.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 4,
+  "word": "farm",
+  "korean": "n. 농장",
+  "korean_say": "농장",
+  "audio": "FW/words/FW_Page02/04_farm.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 5,
+  "word": "river",
+  "korean": "n. 강",
+  "korean_say": "강",
+  "audio": "FW/words/FW_Page02/05_river.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 6,
+  "word": "know",
+  "korean": "v. 알다",
+  "korean_say": "알다",
+  "audio": "FW/words/FW_Page02/06_know.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 7,
+  "word": "angry",
+  "korean": "adj. 화난",
+  "korean_say": "화난",
+  "audio": "FW/words/FW_Page02/07_angry.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 8,
+  "word": "pocket",
+  "korean": "n. 주머니",
+  "korean_say": "주머니",
+  "audio": "FW/words/FW_Page02/08_pocket.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 9,
+  "word": "scratch",
+  "korean": "v. 할퀴다",
+  "korean_say": "할퀴다",
+  "audio": "FW/words/FW_Page02/09_scratch.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 10,
+  "word": "string",
+  "korean": "n. 끈, 줄",
+  "korean_say": "끈, 줄",
+  "audio": "FW/words/FW_Page02/10_string.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 11,
+  "word": "meat",
+  "korean": "n. 고기",
+  "korean_say": "고기",
+  "audio": "FW/words/FW_Page02/11_meat.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 12,
+  "word": "dirty",
+  "korean": "adj. 더러운",
+  "korean_say": "더러운",
+  "audio": "FW/words/FW_Page02/12_dirty.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 13,
+  "word": "donkey",
+  "korean": "n. 당나귀",
+  "korean_say": "당나귀",
+  "audio": "FW/words/FW_Page02/13_donkey.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 14,
+  "word": "laugh",
+  "korean": "v. (소리 내어) 웃다",
+  "korean_say": "(소리 내어) 웃다",
+  "audio": "FW/words/FW_Page02/14_laugh.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 15,
+  "word": "funny",
+  "korean": "adj. 웃기는, 재미있는",
+  "korean_say": "웃기는, 재미있는",
+  "audio": "FW/words/FW_Page02/15_funny.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 16,
+  "word": "a lot of",
+  "korean": "phr. 많은",
+  "korean_say": "많은",
+  "audio": "FW/words/FW_Page02/16_a_lot_of.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 17,
+  "word": "monkey",
+  "korean": "n. 원숭이",
+  "korean_say": "원숭이",
+  "audio": "FW/words/FW_Page02/17_monkey.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 18,
+  "word": "fruit",
+  "korean": "n. 과일",
+  "korean_say": "과일",
+  "audio": "FW/words/FW_Page02/18_fruit.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 19,
+  "word": "shark",
+  "korean": "n. 상어",
+  "korean_say": "상어",
+  "audio": "FW/words/FW_Page02/19_shark.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 20,
+  "word": "hungry",
+  "korean": "adj. 배고픈",
+  "korean_say": "배고픈",
+  "audio": "FW/words/FW_Page02/20_hungry.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 21,
+  "word": "throw",
+  "korean": "v. 던지다",
+  "korean_say": "던지다",
+  "audio": "FW/words/FW_Page02/21_throw.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 22,
+  "word": "friend",
+  "korean": "n. 친구",
+  "korean_say": "친구",
+  "audio": "FW/words/FW_Page02/22_friend.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 23,
+  "word": "ride",
+  "korean": "v. 타다",
+  "korean_say": "타다",
+  "audio": "FW/words/FW_Page02/23_ride.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 24,
+  "word": "back",
+  "korean": "n. 등",
+  "korean_say": "등",
+  "audio": "FW/words/FW_Page02/24_back.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 25,
+  "word": "sick",
+  "korean": "adj. 아픈",
+  "korean_say": "아픈",
+  "audio": "FW/words/FW_Page02/25_sick.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 26,
+  "word": "need",
+  "korean": "v. 필요하다",
+  "korean_say": "필요하다",
+  "audio": "FW/words/FW_Page02/26_need.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 27,
+  "word": "how",
+  "korean": "adv. 어떻게",
+  "korean_say": "어떻게",
+  "audio": "FW/words/FW_Page02/27_how.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 28,
+  "word": "heart",
+  "korean": "n. 심장",
+  "korean_say": "심장",
+  "audio": "FW/words/FW_Page02/28_heart.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 29,
+  "word": "let's",
+  "korean": "phr. –하자",
+  "korean_say": "하자",
+  "audio": "FW/words/FW_Page02/29_lets.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 30,
+  "word": "climb",
+  "korean": "v. 오르다",
+  "korean_say": "오르다",
+  "audio": "FW/words/FW_Page02/30_climb.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 31,
+  "word": "hide",
+  "korean": "v. 숨다",
+  "korean_say": "숨다",
+  "audio": "FW/words/FW_Page02/31_hide.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 32,
+  "word": "smart",
+  "korean": "adj. 똑똑한",
+  "korean_say": "똑똑한",
+  "audio": "FW/words/FW_Page02/32_smart.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 33,
+  "word": "fairy",
+  "korean": "n. 요정",
+  "korean_say": "요정",
+  "audio": "FW/words/FW_Page02/33_fairy.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 34,
+  "word": "finger",
+  "korean": "n. 손가락",
+  "korean_say": "손가락",
+  "audio": "FW/words/FW_Page02/34_finger.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 35,
+  "word": "needle",
+  "korean": "n. 바늘",
+  "korean_say": "바늘",
+  "audio": "FW/words/FW_Page02/35_needle.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 36,
+  "word": "spell",
+  "korean": "n. 주문, 마법",
+  "korean_say": "주문, 마법",
+  "audio": "FW/words/FW_Page02/36_spell.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 37,
+  "word": "year",
+  "korean": "n. 1년",
+  "korean_say": "일 년",
+  "audio": "FW/words/FW_Page02/37_year.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 38,
+  "word": "country",
+  "korean": "n. 나라",
+  "korean_say": "나라",
+  "audio": "FW/words/FW_Page02/38_country.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 39,
+  "word": "put away",
+  "korean": "phr. 치우다",
+  "korean_say": "치우다",
+  "audio": "FW/words/FW_Page02/39_put_away.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 40,
+  "word": "princess",
+  "korean": "n. 공주",
+  "korean_say": "공주",
+  "audio": "FW/words/FW_Page02/40_princess.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 41,
+  "word": "room",
+  "korean": "n. 방",
+  "korean_say": "방",
+  "audio": "FW/words/FW_Page02/41_room.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 42,
+  "word": "people",
+  "korean": "n. 사람들",
+  "korean_say": "사람들",
+  "audio": "FW/words/FW_Page02/42_people.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 43,
+  "word": "forget",
+  "korean": "v. 잊다",
+  "korean_say": "잊다",
+  "audio": "FW/words/FW_Page02/43_forget.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 44,
+  "word": "later",
+  "korean": "adv. 후에",
+  "korean_say": "후에",
+  "audio": "FW/words/FW_Page02/44_later.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 45,
+  "word": "prince",
+  "korean": "n. 왕자",
+  "korean_say": "왕자",
+  "audio": "FW/words/FW_Page02/45_prince.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 46,
+  "word": "place",
+  "korean": "n. 장소",
+  "korean_say": "장소",
+  "audio": "FW/words/FW_Page02/46_place.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 47,
+  "word": "only",
+  "korean": "adv. 오직",
+  "korean_say": "오직",
+  "audio": "FW/words/FW_Page02/47_only.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 2,
+  "no": 48,
+  "word": "fall in love",
+  "korean": "phr. 사랑에 빠지다",
+  "korean_say": "사랑에 빠지다",
+  "audio": "FW/words/FW_Page02/48_fall_in_love.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 1,
+  "word": "brother",
+  "korean": "n. 남자 형제",
+  "korean_say": "남자 형제",
+  "audio": "FW/words/FW_Page03/01_brother.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 2,
+  "word": "ask for",
+  "korean": "phr. 부탁하다",
+  "korean_say": "부탁하다",
+  "audio": "FW/words/FW_Page03/02_ask_for.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 3,
+  "word": "road",
+  "korean": "n. 도로",
+  "korean_say": "도로",
+  "audio": "FW/words/FW_Page03/03_road.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 4,
+  "word": "ghost",
+  "korean": "n. 유령, 귀신",
+  "korean_say": "유령, 귀신",
+  "audio": "FW/words/FW_Page03/04_ghost.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 5,
+  "word": "mill",
+  "korean": "n. (가루가 되도록) 가는 기구",
+  "korean_say": "(가루가 되도록) 가는 기구",
+  "audio": "FW/words/FW_Page03/05_mill.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 6,
+  "word": "word",
+  "korean": "n. 단어",
+  "korean_say": "단어",
+  "audio": "FW/words/FW_Page03/06_word.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 7,
+  "word": "other",
+  "korean": "adj. 다른",
+  "korean_say": "다른",
+  "audio": "FW/words/FW_Page03/07_other.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 8,
+  "word": "give back",
+  "korean": "phr. 돌려주다",
+  "korean_say": "돌려주다",
+  "audio": "FW/words/FW_Page03/08_give_back.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 9,
+  "word": "fisherman",
+  "korean": "n. 낚시꾼",
+  "korean_say": "낚시꾼",
+  "audio": "FW/words/FW_Page03/09_fisherman.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 10,
+  "word": "salt",
+  "korean": "n. 소금",
+  "korean_say": "소금",
+  "audio": "FW/words/FW_Page03/10_salt.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 11,
+  "word": "buy",
+  "korean": "v. 사다",
+  "korean_say": "사다",
+  "audio": "FW/words/FW_Page03/11_buy.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 12,
+  "word": "teach",
+  "korean": "v. 가르치다",
+  "korean_say": "가르치다",
+  "audio": "FW/words/FW_Page03/12_teach.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 13,
+  "word": "more",
+  "korean": "det. 더 많은",
+  "korean_say": "더 많은",
+  "audio": "FW/words/FW_Page03/13_more.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 14,
+  "word": "heavy",
+  "korean": "adj. 무거운",
+  "korean_say": "무거운",
+  "audio": "FW/words/FW_Page03/14_heavy.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 15,
+  "word": "go down",
+  "korean": "phr. 침몰하다",
+  "korean_say": "침몰하다",
+  "audio": "FW/words/FW_Page03/15_go_down.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 16,
+  "word": "never",
+  "korean": "adv. 절대로 –않다",
+  "korean_say": "절대로 않다",
+  "audio": "FW/words/FW_Page03/16_never.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 17,
+  "word": "kind",
+  "korean": "adj. 친절한",
+  "korean_say": "친절한",
+  "audio": "FW/words/FW_Page03/17_kind.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 18,
+  "word": "farmer",
+  "korean": "n. 농부",
+  "korean_say": "농부",
+  "audio": "FW/words/FW_Page03/18_farmer.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 19,
+  "word": "lamb",
+  "korean": "n. 어린 양",
+  "korean_say": "어린 양",
+  "audio": "FW/words/FW_Page03/19_lamb.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 20,
+  "word": "catch",
+  "korean": "v. 잡다",
+  "korean_say": "잡다",
+  "audio": "FW/words/FW_Page03/20_catch.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 21,
+  "word": "hit",
+  "korean": "v. 때리다",
+  "korean_say": "때리다",
+  "audio": "FW/words/FW_Page03/21_hit.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 22,
+  "word": "all",
+  "korean": "det. 모든",
+  "korean_say": "모든",
+  "audio": "FW/words/FW_Page03/22_all.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 23,
+  "word": "greedy",
+  "korean": "adj. 욕심 많은",
+  "korean_say": "욕심 많은",
+  "audio": "FW/words/FW_Page03/23_greedy.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 24,
+  "word": "pancake",
+  "korean": "n. 팬케이크",
+  "korean_say": "팬케이크",
+  "audio": "FW/words/FW_Page03/24_pancake.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 25,
+  "word": "happily",
+  "korean": "adv. 행복하게",
+  "korean_say": "행복하게",
+  "audio": "FW/words/FW_Page03/25_happily.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 26,
+  "word": "at all",
+  "korean": "phr. 조금도",
+  "korean_say": "조금도",
+  "audio": "FW/words/FW_Page03/26_at_all.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 27,
+  "word": "cellar",
+  "korean": "n. 지하 저장고",
+  "korean_say": "지하 저장고",
+  "audio": "FW/words/FW_Page03/27_cellar.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 28,
+  "word": "hole",
+  "korean": "n. 구멍",
+  "korean_say": "구멍",
+  "audio": "FW/words/FW_Page03/28_hole.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 29,
+  "word": "fat",
+  "korean": "adj. 뚱뚱한",
+  "korean_say": "뚱뚱한",
+  "audio": "FW/words/FW_Page03/29_fat.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 30,
+  "word": "noise",
+  "korean": "n. 소리",
+  "korean_say": "소리",
+  "audio": "FW/words/FW_Page03/30_noise.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 31,
+  "word": "too",
+  "korean": "adv. 너무",
+  "korean_say": "너무",
+  "audio": "FW/words/FW_Page03/31_too.mp3"
+ },
+ {
+  "course": "FW",
+  "page": 3,
+  "no": 32,
+  "word": "trouble",
+  "korean": "n. 문제",
+  "korean_say": "문제",
+  "audio": "FW/words/FW_Page03/32_trouble.mp3"
+ }
+]

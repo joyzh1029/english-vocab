@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>영어 단어 따라 읽기</title>
+<style>
+:root{--bg:#FFF8EC;--ink:#2B2B3A;--muted:#7A7A8C;--LF:#FF8A5B;--NS:#4EA8DE;--FW:#5CC98B;--card:#fff}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;font-family:-apple-system,"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif;background:var(--bg);color:var(--ink)}
+header{position:sticky;top:0;z-index:5;display:flex;align-items:center;gap:12px;padding:14px 18px;background:var(--bg);border-bottom:2px solid #F1E6D2}
+header h1{font-size:24px;margin:0;flex:1}
+.back{font-size:20px;border:none;background:#fff;border-radius:16px;padding:12px 18px;box-shadow:0 2px 0 #E8DCC6;min-height:52px}
+main{padding:20px;max-width:1100px;margin:0 auto}
+.courses{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.course{border:none;border-radius:28px;padding:30px 24px;color:#fff;text-align:left;min-height:190px;box-shadow:0 6px 0 rgba(0,0,0,.12);cursor:pointer}
+.course b{display:block;font-size:52px;letter-spacing:1px}
+.course span{display:block;font-size:22px;margin-top:6px}
+.course small{display:block;font-size:17px;opacity:.9;margin-top:10px}
+.days{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:16px}
+.day{border:none;border-radius:22px;background:#fff;min-height:110px;font-size:26px;font-weight:700;box-shadow:0 4px 0 #E8DCC6;cursor:pointer;color:var(--ink)}
+.day small{display:block;font-size:15px;font-weight:400;color:var(--muted);margin-top:6px}
+.playall{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;border:none;border-radius:22px;color:#fff;font-size:24px;font-weight:700;padding:20px;margin-bottom:20px;box-shadow:0 5px 0 rgba(0,0,0,.15);min-height:72px}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.card{position:relative;display:flex;flex-direction:column;justify-content:flex-start;align-items:flex-start;border:3px solid transparent;border-radius:22px;background:var(--card);padding:18px 20px 18px 76px;text-align:left;box-shadow:0 4px 0 #E8DCC6;cursor:pointer;min-height:96px;color:var(--ink);font:inherit}
+.card .no{position:absolute;left:16px;top:18px;width:46px;height:46px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:22px}
+.card .en{font-size:30px;font-weight:800;line-height:1.15}
+.card .ko{font-size:21px;color:#555;margin-top:6px}
+.card .ex{font-size:19px;color:var(--muted);margin-top:8px;font-style:italic}
+.card.playing{border-color:currentColor;transform:scale(1.02)}
+.card.playing .no::after{content:""}
+.hint{color:var(--muted);font-size:18px;margin:0 0 14px}
+.stop{background:#fff;color:var(--ink)}
+</style></head><body>
+<header><button class="back" id="back" hidden>◀ 뒤로</button><h1 id="title">영어 단어 따라 읽기</h1></header>
+<main id="app"></main>
+<audio id="au" preload="none" playsinline></audio>
+<script>
+const COURSES={LF:{name:"LF",ko:"단어 외우기",desc:"단어 → 스펠링 → 단어 → 뜻"},NS:{name:"NS",ko:"단어 + 예문 외우기",desc:"단어 → 스펠링 → 단어 → 뜻 → 예문"},FW:{name:"FW",ko:"읽고 뜻 알기",desc:"단어 → 뜻"}};
+let DATA=[];const app=document.getElementById('app'),au=document.getElementById('au');
+const unit=c=>c==='FW'?'page':'day', unitKo=c=>c==='FW'?'페이지':'Day';
+const tag=(c,n)=>`${c}_${c==='FW'?'Page':'Day'}${String(n).padStart(2,'0')}`;
+function stopAll(){au.pause();document.querySelectorAll('.playing').forEach(e=>e.classList.remove('playing'));const b=document.getElementById('pa');if(b)b.dataset.on='',b.innerHTML='▶ 전체 듣기';}
+function play(src,el){stopAll();au.src=src;au.play();if(el)el.classList.add('playing');au.onended=()=>{stopAll()};}
+function route(){
+  stopAll();const [c,n]=location.hash.slice(1).split('/');const back=document.getElementById('back'),t=document.getElementById('title');
+  if(!c){back.hidden=true;t.textContent='영어 단어 따라 읽기';
+    app.innerHTML='<div class="courses">'+Object.keys(COURSES).map(k=>{const days=[...new Set(DATA.filter(x=>x.course===k).map(x=>x[unit(k)]))];
+    return `<button class="course" style="background:var(--${k})" onclick="location.hash='${k}'"><b>${k}</b><span>${COURSES[k].ko}</span><small>${COURSES[k].desc}<br>${days.length}개 ${k==='FW'?'페이지':'Day'}</small></button>`}).join('')+'</div>';return;}
+  back.hidden=false;
+  if(!n){back.onclick=()=>location.hash='';t.textContent=`${c} · ${COURSES[c].ko}`;
+    const days=[...new Set(DATA.filter(x=>x.course===c).map(x=>x[unit(c)]))];
+    app.innerHTML='<p class="hint">공부할 '+(c==='FW'?'페이지':'Day')+'를 골라요 👇</p><div class="days">'+days.map(d=>{const cnt=DATA.filter(x=>x.course===c&&x[unit(c)]==d).length;
+      return `<button class="day" style="border-bottom:6px solid var(--${c})" onclick="location.hash='${c}/${d}'">${unitKo(c)} ${d}<small>${cnt}개 단어</small></button>`}).join('')+'</div>';return;}
+  back.onclick=()=>location.hash=c;t.textContent=`${c} · ${unitKo(c)} ${n}`;
+  const xs=DATA.filter(x=>x.course===c&&x[unit(c)]==n);
+  app.innerHTML=`<button id="pa" class="playall" style="background:var(--${c})">▶ 전체 듣기</button><p class="hint">카드를 누르면 그 단어를 들을 수 있어요. 잘 듣고 따라 말해 봐요! 🗣️</p><div class="cards">`+
+   xs.map((x,i)=>`<button class="card" style="color:var(--${c})" data-src="${x.audio||''}"><span class="no" style="background:var(--${c})">${x.no}</span><div class="en" style="color:var(--ink)">${x.word}</div><div class="ko">${x.korean.replace(/^(n|v|adj|adv|det|prep|phr)\.\s*/,'')}</div>${x.sentence?`<div class="ex">${x.sentence}</div>`:''}</button>`).join('')+'</div>';
+  app.querySelectorAll('.card').forEach(el=>el.onclick=()=>{if(el.classList.contains('playing')){stopAll();return;}play(el.dataset.src,el)});
+  const pa=document.getElementById('pa');pa.onclick=()=>{if(pa.dataset.on){stopAll();return;}play(`${c}/${tag(c,n)}.mp3`);pa.dataset.on='1';pa.innerHTML='■ 멈추기';};
+}
+fetch('data/vocab.json').then(r=>r.json()).then(d=>{DATA=d;route()});window.onhashchange=route;
+</script></body></html>
